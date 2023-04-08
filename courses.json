@@ -1,0 +1,233 @@
+[
+  {
+    "course_code": "DLH301",
+    "course_name": "Deep Learning for Healthcare",
+    "pre-requisites": "Basic understanding of Python programming, linear algebra, and probability theory. Prior knowledge of machine learning and healthcare is helpful but not required.",
+    "description": "Deep Learning for Healthcare (DLH301) is an interdisciplinary course designed to equip students with advanced knowledge and practical skills in deep learning techniques specifically tailored for healthcare applications. This course focuses on understanding and implementing state-of-the-art deep learning models to address complex healthcare challenges, such as disease diagnosis, treatment planning, medical imaging, genomics, and personalized medicine.",
+    "instructors": ["Smaranjit Ghose"],
+    "semester": "Spring 2023",
+    "material": [
+      {
+        "week number": 1,
+        "topic": "Introduction to Deep Learning and Healthcare",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4",
+        "reading": [
+          "Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville",
+          "Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again by Eric Topol"
+        ]
+      },
+      {
+        "week number": 2,
+        "topic": "Neural Networks and Convolutional Neural Networks",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4",
+        "reading": [
+          "Deep Learning for Computer Vision by Adrian Rosebrock",
+          "Convolutional Neural Networks in Visual Computing: A Concise Guide by Ragav Venkatesan and Baoxin Li"
+        ]
+      },
+      {
+        "week number": 3,
+        "topic": "Recurrent Neural Networks and Long Short-Term Memory Networks",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4",
+        "reading": [
+          "Understanding LSTM Networks by Christopher Olah",
+          "Supervised Sequence Labelling with Recurrent Neural Networks by Alex Graves"
+        ]
+      },
+      {
+        "week number": 4,
+        "topic": "Medical Imaging and Computer-Aided Diagnosis",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4",
+        "reading": [
+          "Deep Learning for Medical Image Analysis by S. Kevin Zhou, Hayit Greenspan, and Dinggang Shen",
+          "Handbook of Medical Image Computing and Computer Assisted Intervention by S. Kevin Zhou, Daniel Rueckert, and Gabor Fichtinger"
+        ]
+      },
+      {
+        "week number": 5,
+        "topic": "Electronic Health Records and Predictive Analytics",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4",
+        "reading": [
+          "Secondary Analysis of Electronic Health Records by MIT Critical Data",
+          "Predictive Analytics in Healthcare: Concepts, Models, and Methods by Ken Yale"
+        ]
+      },
+      {
+        "week number": 6,
+        "topic": "Drug Discovery and Personalized Medicine",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4",
+        "reading": [
+          "Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More by Bharath Ramsundar, Peter Eastman, Patrick Walters, and Vijay Pande",
+          "Personalized Medicine: Empowered Patients in the 21st Century? by Barbara Prainsack"
+        ]
+      },
+      {
+        "week number": 7,
+        "topic": "Ethical, Privacy, and Security Considerations",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4",
+        "reading": [
+          "The Ethics of AI and Big Data in Healthcare by Laura Cabrera, and Elizabeth F. Hutton",
+          "Healthcare Data Privacy and Security: Regulatory Compliance and Data Security in the Age of Electronic Health Records by Bernard Peter Robichau"
+        ]
+      },
+      {
+        "week number": 8,
+        "topic": "Project Presentations and Course Review",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4",
+        "reading": [
+          "No specific readings, review previous weeks' materials and focus on project presentations"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_code": "PBE201",
+    "course_name": "Python for Backend Engineering",
+    "pre-requisites": "Basic understanding of Python programming, algorithms, and data structures.",
+    "description": "Python for Backend Engineering (PBE201) is an in-depth course designed to provide students with the essential knowledge and practical skills required to build scalable, robust, and maintainable backend systems using Python. This course covers a wide range of topics, including web frameworks, databases, RESTful APIs, caching, and performance optimization. Students will gain hands-on experience by working on real-world projects and implementing best practices in backend engineering.",
+    "instructors": ["Smaranjit Ghose"],
+    "semester": "Spring 2023",
+    "material": [
+      {
+        "week number": 1,
+        "topic": "Introduction to Backend Engineering and Python",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4",
+        "reading": [
+          "Python Crash Course by Eric Matthes",
+          "Fluent Python: Clear, Concise, and Effective Programming by Luciano Ramalho"
+        ]
+      },
+      {
+        "week number": 2,
+        "topic": "Python Web Frameworks and Django",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4",
+        "reading": [
+          "Django for Beginners: Build Websites with Python and Django by William S. Vincent",
+          "Two Scoops of Django: Best Practices for the Django Web Framework by Daniel Roy Greenfeld and Audrey Roy Greenfeld"
+        ]
+      },
+      {
+        "week number": 3,
+        "topic": "Databases, SQL and NoSQL",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4",
+        "reading": [
+          "SQL: The Complete Reference by James R. Groff, Paul N. Weinberg, and Andrew J. Oppel",
+          "Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement by Luc Perkins, Eric Redmond, and Jim Wilson"
+        ]
+      },
+      {
+        "week number": 4,
+        "topic": "RESTful APIs and API Design",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvz",
+        "reading": [
+          "RESTful Web APIs by Leonard Richardson and Mike Amundsen",
+          "API Design Patterns: The Importance of API Design Standards for Business-to-Business by Casey Reas and Ben Fry"
+        ]
+      },
+      {
+        "week number": 5,
+        "topic": "Caching and Performance Optimization",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4",
+        "reading": [
+          "High Performance Django by Peter Baumgartner and Yann Malet",
+          "Web Scalability for Startup Engineers by Artur Ejsmont"
+        ]
+      },
+      {
+        "week number": 6,
+        "topic": "Asynchronous Programming and Task Queues",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4",
+        "reading": [
+          "Asynchronous Python Web Apps with WebSockets & gevent by Andrew Godwin",
+          "Python Parallel Programming Cookbook by Giancarlo Zaccone"
+        ]
+      },
+      {
+        "week number": 7,
+        "topic": "Microservices and Containerization",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4",
+        "reading": [
+          "Building Microservices: Designing Fine-Grained Systems by Sam Newman",
+          "Docker: Up & Running: Shipping Reliable Containers in Production by Sean P. Kane and Karl Matthias"
+        ]
+      },
+      {
+        "week number": 8,
+        "topic": "Project Presentations and Course Review",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4",
+        "reading": [
+          "Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin",
+          "You Don't Know JS (book series) by Kyle Simpson"
+        ]
+      }
+    ]
+  },
+
+  {
+    "course_code": "AIP301",
+    "course_name": "Artificial Intelligence in Production",
+    "pre-requisites": "Intermediate understanding of Python programming, linear algebra, and probability theory. Prior knowledge of machine learning is required.",
+    "description": "Artificial Intelligence in Production (AIP301) is a course designed to equip students with the knowledge and skills required to deploy machine learning models in production environments. This course covers a wide range of topics, including model deployment, scaling, monitoring, and continuous integration and delivery. Students will also gain experience in cloud infrastructure and containerization technologies to deploy and manage AI-based systems in production.",
+    "instructors": ["Smaranjit Ghose"],
+    "semester": "Spring 2023",
+    "material": [
+      {
+        "week number": 1,
+        "topic": "Introduction to Productionizing Machine Learning",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4"
+      },
+      {
+        "week number": 2,
+        "topic": "Model Deployment and Serving",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4"
+      },
+      {
+        "week number": 3,
+        "topic": "Scaling and Distributed Computing",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4"
+      },
+      {
+        "week number": 4,
+        "topic": "Continuous Integration and Delivery for ML",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4",
+        "reading": [
+          "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by Jez Humble and David Farley",
+          "Building Machine Learning Powered Applications: Going from Idea to Product by Emmanuel Ameisen"
+        ]
+      },
+      {
+        "week number": 5,
+        "topic": "Monitoring and Debugging ML Models in Production",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4",
+        "reading": ["Practical Monitoring: Effective"]
+      },
+      {
+        "week number": 6,
+        "topic": "Cloud Infrastructure and Containerization for AI",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4",
+        "reading": [
+          "Kubernetes: Up and Running: Dive into the Future of Infrastructure by Brendan Burns, Joe Beda, and Kelsey Hightower",
+          "Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment by Justin Garrison and Kris Nova"
+        ]
+      },
+      {
+        "week number": 7,
+        "topic": "Ethical and Legal Issues in AI Deployment",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4",
+        "reading": [
+          "The Big Nine: How the Tech Titans and Their Thinking Machines Could Warp Humanity by Amy Webb",
+          "Robot Rights by David J. Gunkel"
+        ]
+      },
+      {
+        "week number": 8,
+        "topic": "Project Presentations and Course Review",
+        "g_slide": "https://docs.google.com/presentation/d/e/2PACX-1vSpCqGzK4luU4wcOdbWxACQ4JJNXlvMslgWapsQYzW5_YDHqDPVzrIMPCnEwpFvstbcnHqvzHNXfP-4",
+        "reading": [
+          "Building Machine Learning Powered Applications: Going from Idea to Product by Emmanuel Ameisen"
+        ]
+      }
+    ]
+  }
+]
