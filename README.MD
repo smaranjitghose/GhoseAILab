@@ -103,7 +103,18 @@ The data is currently stored on a JSON with the following schema
 ```
 
 
+## Potential Features
 
+- Display as PDF
+- Load JSON into pandas, parse it, Display in an editable dataframe using AGGrid
+- CRUD on JSON using pandas + AGGRID
+- Use a wide column or KV Database
+- Semantic Search
+- GPT-4
+- Improve UI
+- t3 trial
+- CMS
+- Dockerize
 
 ## 🛡️ License
 
